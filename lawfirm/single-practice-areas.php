@@ -10,7 +10,7 @@
                         <h2><?php echo do_shortcode('[acf field="blurb"]'); ?></h2>
                         <?php echo the_content(); ?>
                         <h3 class="text-center">Request A Consultation</h3>
-                        <p class="text-center">You can complete the following form to request a consultation.</p>
+                        <p class="text-center">You can complete the form to  request a consultation.</p>
                         <?php echo do_shortcode('[fluentform id="1"]'); ?>
                     </div>
                 </div>
